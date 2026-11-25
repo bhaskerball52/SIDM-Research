@@ -11,7 +11,7 @@ v_y0 = 0
 ax_0 = 0
 ay_0 = 0
 
-fig = plt.figure()
+fig_1 = plt.figure()
 
 def light_ray(x_0, y_0, v_x0, v_y0):
     x = []
